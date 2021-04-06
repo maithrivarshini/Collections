@@ -1,0 +1,5 @@
+1.Create some country and assign some city to each country
+2.Display all the country and city details
+3.Display cities based on country given by user
+4.Add a new country and cities given by the user
+5.update the cities of a country,as given by the user i.e the user will give country name and city,add the city to the country,if country exist
